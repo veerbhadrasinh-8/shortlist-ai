@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+.env
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Streamlit local settings
+.streamlit/credentials.toml
+
+# Generated reports / data
+report/
